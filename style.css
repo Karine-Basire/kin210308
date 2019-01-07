@@ -1,0 +1,89 @@
+*
+{
+	margin: 0 auto;
+	padding: 0;
+	/*j'enlève toutes les marge et les padding d'origine*/
+}
+header
+{
+	width: 800px;
+	margin: 50px -100px 50px;
+}
+#full
+{	
+	width: 150px;
+	height: 80px;
+	border-radius: 20px;
+	border: solid 4px #691599;
+	background-color: #D5E7F5;
+	color: #B877ED;
+	font-size: x-large;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+#empty
+{
+	width: 150px;
+	height: 80px;
+	border-radius: 20px;
+	border: solid 4px #691599;
+	background-color: #D5E7F5;
+	color: #B877ED;
+	font-size: x-large;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+body
+{
+	width:800px;
+	height:800px;
+	text-align: center;
+	background-color: #F7E1F5;
+}
+div
+{
+	float: left;
+	}
+.but
+{
+	width: 0px;
+	height: 0px;
+	margin: 20px;
+	padding: 0px;
+	text-decoration: none;
+	background: white;
+	border: solid 3px #691599;
+	width:80px;
+	height:80px;
+	border-radius:50%
+}
+.but1
+{
+	width: 0px;
+	height: 0px;
+	margin: 20px;
+	padding: 0px;
+	text-decoration: none;
+	background: white;
+	border: solid 3px #691599;
+	width:70px;
+	height:70px;
+}
+.but2
+{
+	width: 0px;
+	height: 0px;
+	margin: 20px;
+	padding: 0px;
+	text-decoration: none;
+	background: white;
+	border: solid 3px #691599;
+	width:70px;
+	height:70px;
+	transform-origin: top 0 left 0;
+	transform: rotate(47deg);	
+}
+.color
+{
+	background: #CFC1E3;
+}
